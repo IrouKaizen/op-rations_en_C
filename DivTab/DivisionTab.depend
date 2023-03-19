@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1620935775 source:d:\progamme c\division affichage\divisiontab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1629897029 source:d:\progamme c\division affichage\goudjinou elora divtab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1623080155 source:e:\progamme c\division affichage\goudjinou elora divtab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1648546655 source:d:\c work\divtab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
